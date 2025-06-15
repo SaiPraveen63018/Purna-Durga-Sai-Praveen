@@ -29,7 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPraveen63018&" alt="SaiPraveen63018" /></p>
 ---
-## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaiPraveen63018&theme=onestar&row=1&column=7" />
