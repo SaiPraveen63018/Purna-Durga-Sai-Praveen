@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning *Python for DevOps*
 - 👯 I’m looking to collaborate on *DevOps Projects*
 - 💬 Ask me about *AWS, DevOps, Kubernetes, Docker, Terraform, Jenkins*
-- 📫 Reach me at *(Add your email here)*
+- 📫 How to reach me: *your-email@example.com* (👉 Replace with your real email)
 
 ---
 
@@ -21,4 +21,33 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiPraveen63018&show_icons=true&locale=en" alt="SaiPraveen63018" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPraveen63018&" alt="SaiPraveen63018" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaiPraveen63018&theme=darkhub" alt="trophy" />
+</p>
+
+---
+
+## 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SaiPraveen63018&theme=react-dark" alt="activity graph" />
+</p>
