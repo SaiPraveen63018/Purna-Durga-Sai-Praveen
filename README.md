@@ -59,8 +59,7 @@
 ## 🎓 Certifications
 
 - 🏅 AWS Certified Solutions Architect – Associate
-- 🏅 Certified Kubernetes Administrator (CKA)
-- 🏅 HashiCorp Certified: Terraform Associate
+- 🏅 AWS Certified Cloud Practitioner
 
 ---
 
@@ -70,33 +69,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SaiPraveen63018)
 
 ---
-
-## 🔖 Quote for DevOps Life:
-
-> "Infrastructure as Code is not a tool, it's a mindset."
-
----
-
-⭐ *You can fork this repo and customize it further anytime!*
-
-
----
-
-✅ Next step:
-
-If you give me:
-
-Your LinkedIn URL
-
-If you want any personal blog link / portfolio
-
-Any extra certification
-
-
-I can generate a 100% ready-to-go final README for you 🚀
-
-
----
-
-👉 Shall I generate the final version now?
-(just give me the LinkedIn link if you have one)
