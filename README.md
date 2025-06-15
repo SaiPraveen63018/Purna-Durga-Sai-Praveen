@@ -23,14 +23,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiPraveen63018&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPraveen63018&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPraveen63018&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiPraveen63018&show_icons=true&locale=en&layout=compact" alt="SaiPraveen63018" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaiPraveen63018&show_icons=true&locale=en" alt="SaiPraveen63018" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPraveen63018&" alt="SaiPraveen63018" /></p>
 ---
 ## 🏆 GitHub Trophies
 
