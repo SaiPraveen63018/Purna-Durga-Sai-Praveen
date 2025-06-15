@@ -8,10 +8,7 @@
 ---
 
 - 🔭 I’m currently working on *AWS | Docker | Kubernetes | Terraform | Jenkins | DevOps Tools*
-- 🌱 I’m currently learning *Python for DevOps*
-- 👯 I’m looking to collaborate on *DevOps Projects*
-- 💬 Ask me about *AWS, DevOps, Kubernetes, Docker, Terraform, Jenkins*
-- 📫 How to reach me: *your-email@example.com* (👉 Replace with your real email)
+- 💬 Ask me about *AWS, DevOps, Kubernetes, Docker, Terraform, Jenkins
 
 ---
 
