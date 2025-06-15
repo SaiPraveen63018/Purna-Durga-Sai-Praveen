@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sai Praveen </h1>
-#### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Automation Enthusiast
+<h1 align="center"> DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Automation Enthusiast </h1>
 
 ---
 
