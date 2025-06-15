@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDFwOJxAAAad/hacking.gif">
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDFwOJxAAAad/hacking.gif">
 
 # Hi there, I'm Sai Praveen 👋  
 #### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Automation Enthusiast
